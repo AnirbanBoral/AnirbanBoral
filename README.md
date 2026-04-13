@@ -30,13 +30,6 @@
 
 ---
 
-### stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=AnirbanBoral&show_icons=true&hide_border=true&theme=github_dark)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirbanBoral&layout=compact&hide_border=true&theme=github_dark)
-
----
-
 ### contact
 
 [linkedin](https://www.linkedin.com/in/anirban-boral-26894630b/)
